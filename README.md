@@ -17,7 +17,7 @@ This is the backend of Fruit State Classifier App project. Server was built usin
 
 To work with this project locally you need to build this application via XCode.
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,apple" />
