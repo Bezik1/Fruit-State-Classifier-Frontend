@@ -35,14 +35,14 @@
 			path = "Fruit Quality Scanner Frontend";
 			sourceTree = "<group>";
 		};
-		6C44350A2E46049400F71105 /* Fruit Quality Scanner FrontendTests */ = {
+		6C44350A2E46049400F71105 /* Fruit Quality Scanner Frontend Tests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Fruit Quality Scanner FrontendTests";
+			path = "Fruit Quality Scanner Frontend Tests";
 			sourceTree = "<group>";
 		};
-		6C4435142E46049400F71105 /* Fruit Quality Scanner FrontendUITests */ = {
+		6C4435142E46049400F71105 /* Fruit Quality Scanner Frontend UITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Fruit Quality Scanner FrontendUITests";
+			path = "Fruit Quality Scanner Frontend UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +76,8 @@
 			isa = PBXGroup;
 			children = (
 				6C4434FB2E46049300F71105 /* Fruit Quality Scanner Frontend */,
-				6C44350A2E46049400F71105 /* Fruit Quality Scanner FrontendTests */,
-				6C4435142E46049400F71105 /* Fruit Quality Scanner FrontendUITests */,
+				6C44350A2E46049400F71105 /* Fruit Quality Scanner Frontend Tests */,
+				6C4435142E46049400F71105 /* Fruit Quality Scanner Frontend UITests */,
 				6C4434FA2E46049300F71105 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 				6C4435092E46049400F71105 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				6C44350A2E46049400F71105 /* Fruit Quality Scanner FrontendTests */,
+				6C44350A2E46049400F71105 /* Fruit Quality Scanner Frontend Tests */,
 			);
 			name = "Fruit Quality Scanner FrontendTests";
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				6C4435132E46049400F71105 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				6C4435142E46049400F71105 /* Fruit Quality Scanner FrontendUITests */,
+				6C4435142E46049400F71105 /* Fruit Quality Scanner Frontend UITests */,
 			);
 			name = "Fruit Quality Scanner FrontendUITests";
 			packageProductDependencies = (
