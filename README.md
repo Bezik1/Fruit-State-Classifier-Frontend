@@ -1,12 +1,12 @@
 # 🍎 Fruit State Classifier App – Backend
 
+![Banner](./assets/base-view.png)
+
 ## 💡 Overview
 
 This is the backend of Fruit State Classifier App project. Server was built using Python and FastAPI framework. Application involes usage of machine learning classification model, which is based on resnet34 architecture, fine-tuned to work with kaggle nourabdoun/fruits-quality-fresh-vs-rotte dataset, which includes samples of fruits sorted in two categories: fresh and rotten.
 
-![Banner](./Fruit%Quality%Scanner%Frontend/Resources/base-view.png)
-
-![Banner](./Fruit%Quality%Scanner%Frontend/Resources/post-prediction-view.png)
+![Banner](./assets/post-prediction-view.png)
 
 ## 🗒️ Features
 
